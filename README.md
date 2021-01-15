@@ -26,3 +26,10 @@ bundle install
 rspec
 
 You should see 1 passing test.
+
+Completed features allowing user to,
+
+sign-up to Chitter
+post messages
+view message is reverse chronological order
+view time messages were posted
